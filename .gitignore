@@ -1,0 +1,43 @@
+# ===== Build Output & Cache =====
+build/
+build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.ninja
+.ninja_*
+compile_commands.json
+
+# ===== Qt Creator User Files =====
+*.user
+CMakeLists.txt.user
+.qtc/
+.vscode/
+
+# ===== Compiled Binaries =====
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.lib
+*.pdb
+
+# ===== Qt Auto-Generated Files =====
+*_autogen/
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.stash
+
+# ===== Runtime Output (Keep Local Only) =====
+schedule.json
+
+# ===== Python Cache (For checker.py) =====
+__pycache__/
+*.pyc
+
+# ===== OS Garbage =====
+.DS_Store
+Thumbs.db
