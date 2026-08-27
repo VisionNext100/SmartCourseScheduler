@@ -1,6 +1,10 @@
 # SmartCourseScheduler
 ## Yehan WANG, ECNU
 
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/VisionNext100/VisionNext100.github.io@main/public/images/projects/project-coursesched.png" width="800" alt="SmartCourseScheduler">
+</div>
+
 ### Ⅰ Overview
 SmartCourseScheduler is an intelligent academic course enrollment planning and scheduling system implemented in C++17 and the Qt6 framework. Designed to tackle the multi-constraint NP-hard academic scheduling problem, this system automates optimal 8-semester timetable generation while complying with mandatory graduation credit boundaries, directed prerequisite dependency paths, specific time-slot exclusions, and sequential semester continuations. 
 
